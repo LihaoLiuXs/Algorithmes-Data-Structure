@@ -1,7 +1,7 @@
- 
+
 public class DistinctSubsequences {
 
-	public static void main(String[] args) {//Lihao Liu
+	public static void main(String[] args) {
 		//Given a string S and a string T, count the number of distinct subsequences of S which equals T.
 		//A subsequence of a string is a new string which is formed from 
 		//the original string by deleting some (can be none) of the characters without disturbing 

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class BinaryTreePostorderTraversal {//Lihao Liu
+public class BinaryTreePostorderTraversal {
 
 	public static void main(String[] args) {
 		//Given a binary tree, return the postorder traversal of its nodes' values.
