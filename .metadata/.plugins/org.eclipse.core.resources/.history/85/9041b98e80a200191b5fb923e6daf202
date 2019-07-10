@@ -1,5 +1,5 @@
 
-public class REM_pruning_v3 {
+public class RemoveInvalidParentheses {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
