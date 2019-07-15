@@ -1,5 +1,5 @@
 
-public class MedianOfTwoSortedArrays {
+public class CountTracking {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
