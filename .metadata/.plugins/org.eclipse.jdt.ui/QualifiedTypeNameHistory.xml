@@ -9,4 +9,5 @@
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.util.PriorityQueue"/>
+<fullyQualifiedTypeName name="MergeKSortedLists.ListNode"/>
 </qualifiedTypeNameHistroy>
